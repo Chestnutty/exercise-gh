@@ -1,0 +1,10 @@
+git config --global user.name "Heiko Neumann"
+git config --global user.email hn@hnbs.de
+git config --global color.ui true
+
+
+
+aktuelle Config einsehen mit 
+cat ~/.gitconfig 
+(auf Position achten ... oberste Ebene des Arbeitsverzeichnisses) 
+
